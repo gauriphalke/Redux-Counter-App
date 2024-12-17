@@ -1,0 +1,30 @@
+.app-content {
+  text-align: center;
+  border: 2px solid transparent;
+  border-radius: 40px;
+  padding: 30px;
+  margin: 10%;
+  background-color: bisque;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: rgb(2, 146, 165);
+}
+
+.bt-1{
+  color: black;
+  background-color: whitesmoke;
+  cursor: pointer;
+  padding: 10px 10px;
+  margin: 4px 2px;
+  
+}
+.bt-1:hover {
+  color: black;
+  background-color: greenyellow;
+  
+}
